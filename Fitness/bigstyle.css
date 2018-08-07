@@ -1,0 +1,50 @@
+body{
+    background-color:skyblue;
+}
+
+h1{
+    text-align:center;
+}
+
+h2{
+    color: rgb(46, 10, 105);
+    font-size: 45px;
+    text-align: center;
+}
+
+.weights{
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+h4{
+  color:rgb(46, 10, 105);
+  font-size: 45px;
+  text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+li{
+    float: left;
+}
+
+li a {
+    color: white;
+    display: block;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: skyblue;
+}
+
